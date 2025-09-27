@@ -3,7 +3,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://www.palanhaar.com/</loc>
+    <loc>https://www.palanhaar.com</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,12 +21,4 @@
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
-
-  <!-- 404 page (optional, usually not indexed) -->
-  <url>
-    <loc>https://www.palanhaar.com/404</loc>
-    <changefreq>never</changefreq>
-    <priority>0.0</priority>
-  </url>
-
 </urlset>
